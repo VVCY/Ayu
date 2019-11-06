@@ -1,0 +1,6 @@
+echo "# Ayu" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/VVCY/Ayu.git
+git push -u origin master
